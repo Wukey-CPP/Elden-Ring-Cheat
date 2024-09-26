@@ -1,0 +1,16 @@
+﻿  injector.cpp
+C:\Users\timot\source\repos\Elden Ring kernel hooker injector\Elden Ring kernel hooker injector\injector.cpp(26,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\timot\source\repos\Elden Ring kernel hooker injector\Elden Ring kernel hooker injector\injector.cpp(28,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\timot\source\repos\Elden Ring kernel hooker injector\Elden Ring kernel hooker injector\injector.cpp(46,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\timot\source\repos\Elden Ring kernel hooker injector\Elden Ring kernel hooker injector\injector.cpp(65,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\timot\source\repos\Elden Ring kernel hooker injector\Elden Ring kernel hooker injector\injector.cpp(69,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\timot\source\repos\Elden Ring kernel hooker injector\Elden Ring kernel hooker injector\injector.cpp(71,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\timot\source\repos\Elden Ring kernel hooker injector\Elden Ring kernel hooker injector\injector.cpp(86,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\timot\source\repos\Elden Ring kernel hooker injector\Elden Ring kernel hooker injector\injector.cpp(126,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\timot\source\repos\Elden Ring kernel hooker injector\Elden Ring kernel hooker injector\injector.cpp(128,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  71 of 172 functions (41.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Elden Ring kernel hooker injector.vcxproj -> C:\Users\timot\source\repos\Elden Ring kernel hooker injector\x64\Release\Elden Ring kernel hooker injector.exe
