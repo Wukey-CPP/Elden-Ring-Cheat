@@ -1,0 +1,17 @@
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\dllmain.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\dllmain.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\Global.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\Global.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\ImGui\imgui.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\imgui.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\ImGui\imgui_demo.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\imgui_demo.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\ImGui\imgui_draw.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\imgui_draw.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\ImGui\imgui_impl_dx10.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\imgui_impl_dx10.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\ImGui\imgui_impl_dx11.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\imgui_impl_dx11.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\ImGui\imgui_impl_dx12.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\imgui_impl_dx12.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\ImGui\imgui_impl_dx9.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\imgui_impl_dx9.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\ImGui\imgui_impl_win32.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\imgui_impl_win32.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\ImGui\imgui_tables.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\imgui_tables.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\ImGui\imgui_widgets.cpp;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\imgui_widgets.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\MinHook\Src\buffer.c;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\buffer.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\MinHook\Src\hde\hde32.c;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\hde32.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\MinHook\Src\hde\hde64.c;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\hde64.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\MinHook\Src\hook.c;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\hook.obj
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\MinHook\Src\trampoline.c;C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\x64\Debug\trampoline.obj

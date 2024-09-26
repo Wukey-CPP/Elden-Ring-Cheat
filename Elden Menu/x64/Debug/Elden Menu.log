@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  dllmain.cpp
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\dllmain.cpp(431,63): warning C4244: '=': conversion from 'uintx_t' to 'UINT', possible loss of data
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\dllmain.cpp(451,63): warning C4244: '=': conversion from 'uintx_t' to 'UINT', possible loss of data
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\dllmain.cpp(464,27): warning C4267: 'argument': conversion from 'size_t' to 'UINT', possible loss of data
+C:\Users\timot\Downloads\Elden-Menu-0.5.0\Elden-Menu-0.5.0\Elden Menu\dllmain.cpp(471,72): warning C4244: 'argument': conversion from 'uintx_t' to 'int', possible loss of data
+  Elden Menu.vcxproj -> C:\Games\ELDEN.RING.1.09.Deluxe.Edition.Steam.Rip-InsaneRamZes\ELDEN RING\Game\mods\Elden Menu.dll
